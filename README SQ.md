@@ -19,7 +19,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ### 1. Database Setup
 
 - **Database Creation**: A Data base named `retail_sales` is created to store the sales data. 
-- **Upload data set to database**: The data set structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount as excel file uploaded to my SQL . all datat tuypes are set to default .no further changes done .
+- **Upload data set to database**: The data set structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount as csv.file uploaded to my SQL . all datat tuypes are set to default .no further changes done .
 
 
 
